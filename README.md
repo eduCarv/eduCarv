@@ -1,5 +1,5 @@
 <h1 align="center">Eduardo Augusto da Silva Carvalho</h1>
-<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/> Aim to be a Full Stack developer <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
+<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/> Full Stack Developer in Training <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
 
 
  
