@@ -1,5 +1,5 @@
 <h1 align="center">Eduardo Augusto da Silva Carvalho</h1>
-<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/> Desenvolvedor Front / Back  em treinamento - Front / Back Developer  in training<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
+<h3 align="center"><img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" alt="react" width="20" height="20"/> Desenvolvedor Front<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-256.png" alt="nodejs" width="20" height="20"/></h3>
 
 
  
@@ -13,7 +13,7 @@
 ## Olá! 👋, 
 Eu sou Eduardo e eis aqui um pouco sobre mim:
 
-Sou desenvolvedor de sistemas a 4 anos e durante esse período desenvolvi várias soluções para diversos tipos de clientes. Hoje tenho por objetivo ser um especialista em JS tanto no front quanto no back. Para isso estou realizando diversos tutorials com ajuda do Youtube e também estou fazendo os cursos da Origamid. 
+Sou desenvolvedor de sistemas a 4 anos e durante esse período desenvolvi várias soluções para diversos tipos de clientes. Hoje tenho por objetivo ser um especialista em JS tanto no front quanto no back. Para isso estou realizando diversos tutoriais com ajuda do Youtube e também estou fazendo os cursos da Origamid. 
 
   
 <p>- 🔭 No momento estou reproduzindo os conhecimentos adquiridos nos cursos e em breve trabalharei também em projetos como Netflix, Discord etc.  🧑🏻‍🚀 <br>
